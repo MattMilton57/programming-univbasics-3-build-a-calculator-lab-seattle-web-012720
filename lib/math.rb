@@ -26,6 +26,6 @@ p ans2
 end
 
 def square_root(num)
-sqr = Math.sin(num)
+sqr = Math.sqrt(num)
 p sqr
 end
