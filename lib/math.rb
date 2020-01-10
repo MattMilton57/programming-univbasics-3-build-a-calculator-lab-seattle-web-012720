@@ -26,6 +26,6 @@ p ans2
 end
 
 def square_root(num)
-sqr = num
+sqr = num/num
 p sqr
 end
