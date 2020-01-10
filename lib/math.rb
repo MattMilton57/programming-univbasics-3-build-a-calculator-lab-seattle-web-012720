@@ -18,7 +18,7 @@ mult = num1*num2
 p mult
 end
 
-def modulo(num1, num2)
+def modulo(num2, num1)
 modrod = num1/num2
 ans = modrod*num2 
 ans2 = ans-num1
