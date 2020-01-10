@@ -22,7 +22,7 @@ def modulo(num1, num2)
 modrod = num1/num2
 ans = modrod*num2 
 ans2 = num2-ans
-p num2
+p ans2
 end
 
 def square_root(num)
