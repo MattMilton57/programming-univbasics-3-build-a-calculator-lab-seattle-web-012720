@@ -21,7 +21,7 @@ end
 def modulo(num1, num2)
 modrod = num1/num2
 ans = modrod*num2 
-ans2 = num2-ans
+ans2 = num1-ans
 p ans2
 end
 
