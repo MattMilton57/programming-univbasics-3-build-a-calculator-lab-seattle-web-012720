@@ -19,7 +19,8 @@ p mult
 end
 
 def modulo(num1, num2)
-
+modrod = num2/num1
+ans = 
 end
 
 def square_root(num)
